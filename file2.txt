@@ -1,1 +1,1 @@
-New change added through feature branch will replace all text in file2.
+New change for file2 from dev branch.
